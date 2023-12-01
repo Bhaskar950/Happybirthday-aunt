@@ -1,0 +1,39 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #e44d26; /* A shade of orange-red */
+}
+
+section {
+  text-align: justify;
+  line-height: 1.6;
+}
+img.birthday-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+p {
+  margin-bottom: 15px;
+}
+
+/* Add more styles as needed */

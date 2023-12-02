@@ -1,6 +1,6 @@
 body {
   font-family: "Arial", sans-serif;
-  background-color: #f9f9f9;
+  background-color: #cfd5cd;
   color: #333;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
   max-width: 100%;
   margin: 50px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #dbd7d7;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
